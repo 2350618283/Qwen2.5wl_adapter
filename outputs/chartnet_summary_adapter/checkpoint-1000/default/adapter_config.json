@@ -1,0 +1,10 @@
+{
+  "act_layer": "gelu",
+  "adapter_length": 128,
+  "dim": 3584,
+  "hidden_pos": 0,
+  "method_name": "forward",
+  "model_key_mapping": null,
+  "swift_type": "ADAPTER",
+  "target_modules": "model\\.language_model\\.layers\\.\\d+\\.mlp"
+}
